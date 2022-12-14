@@ -15,7 +15,7 @@ Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-[![Video](https://img.youtube.com/vi/Ov3Z3vD5zFw&t=2622s/maxresdefault.jpg)](https://www.youtube.com/watch?v=FarGpSSHgL8)
+[![Video](https://img.youtube.com/vi/FarGpSSHgL8/maxresdefault.jpg)](https://youtu.be/FarGpSSHgL8)
 
 Viele Websiten haben eine zusätzliche Datenbank, in denen Sie die Informationen von Benutzern speichern. Diese Informationen werden oft für das Einloggen in das System verwendet. Um sich in ein ungesichertes System einzuloggen, ohne die benötigten Daten zu haben, kann man dafür eine SQL-injection durchführen. Hätte man Eingabefelder für das Username und das Passwort, würde die Database Query ungefähr so aussehen, wenn wir als Username "admin" und als Passwort "password123" eingeben.
 
@@ -28,12 +28,6 @@ Es wird nachgeschaut, ob es diese Anmeldedaten gibt. So würde die Anmeldung feh
     SELECT * FROM users WHERE username ='admin' OR '1'='1' AND password='password'
 ```
 Man ist erfolgreich eingeloggt.
-
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
