@@ -35,8 +35,8 @@ Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Das Verstehen von diesem Konzept ist einfach und schnell vergangen, weil ich schon Erfahrungen mit SQL gemacht habe.
+👍 Das Verstehen von diesem Konzept ist einfach vergangen, weil ich schon Erfahrungen mit SQL gemacht habe.
 
-👎 hilfe
+👎 Am Anfang hatte ich kleine Probleme, die SQL-injections durchzuführen, da ich meine Strings nicht richtig eingesetzt habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Bevor ich mit dem Arbeiten starte, sollte ich mich erst über dieses Thema ein bisschen informieren.
