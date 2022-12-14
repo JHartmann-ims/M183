@@ -3,12 +3,10 @@ Julian Hartmann
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
 SQL-Injections auf einer ungesicherten Website duchführen.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
 
 ## Beschreibung
