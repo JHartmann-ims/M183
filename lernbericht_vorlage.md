@@ -17,6 +17,8 @@ Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
 
 [![Video](https://img.youtube.com/vi/FarGpSSHgL8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FarGpSSHgL8)
 
+Viele Websiten haben eine zusätzliche Datenbank, in denen Sie die Informationen von Benutzern speichern. Diese Informationen werden oft für das Einloggen in das System verwendet.
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
