@@ -20,7 +20,7 @@ Viele Websiten haben eine zusätzliche Datenbank, in denen Sie die Informationen
 ```
     SELECT * FROM users WHERE username ='admin' AND password='password123'
 ```
-Es wird nachgeschaut, ob es diese Anmeldedaten gibt. So würde die Anmeldung fehlschlagen. Wie man sieht wurden die Eingaben als Strings ausgegeben. Das heisst wir könnten selber Strings hinzufügen. Wir müssen ein Statement hinzufügen, das immer stimmt. "2=2" stimmt immer, also benutzen wir dies. Die Eingabe als Username würde so aussehen: "admin' OR '2'='2".
+Es wird nachgeschaut, ob es diese Anmeldedaten gibt. So würde die Anmeldung fehlschlagen. Wie man sieht wurden die Eingaben als Strings ausgegeben. Das heisst wir könnten selber Strings hinzufügen. Wir müssen ein Statement hinzufügen, das immer stimmt. "2=2" stimmt immer, also benutzen wir dies. Die Eingabe als Username würde dann so aussehen: "admin' OR '2'='2".
 
 ```
     SELECT * FROM users WHERE username ='admin' OR '1'='1' AND password='password123'
