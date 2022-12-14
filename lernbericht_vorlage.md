@@ -13,7 +13,7 @@ Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Klicken Sie auf das Bild, um ein Video dazu zu sehen.
 
 [![Watch the video](https://img.youtube.com/vi/FarGpSSHgL8/sddefault.jpg)](https://www.youtube.com/watch?v=FarGpSSHgL8)
 
@@ -31,12 +31,12 @@ Man ist erfolgreich eingeloggt.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt habe, wie man eine SQL-injection auf eine unsichere Website mache.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Das Verstehen von diesem Konzept ist einfach und schnell vergangen, weil ich schon Erfahrungen mit SQL gemacht habe.
 
-👎 und etwas, was nicht gut lief.
+👎 hilfe
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
