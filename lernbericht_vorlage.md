@@ -17,7 +17,13 @@ Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
 
 [![Video](https://img.youtube.com/vi/FarGpSSHgL8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FarGpSSHgL8)
 
-Viele Websiten haben eine zusätzliche Datenbank, in denen Sie die Informationen von Benutzern speichern. Diese Informationen werden oft für das Einloggen in das System verwendet.
+Viele Websiten haben eine zusätzliche Datenbank, in denen Sie die Informationen von Benutzern speichern. Diese Informationen werden oft für das Einloggen in das System verwendet. Um sich in ein ungesichertes System einzuloggen, ohne die benötigten Daten zu haben, kann man dafür eine SQL-injection durchführen. Hätte man Eingabefelder für das Username und das Passwort, würde die Database Query ungefähr so aussehen, wenn wir als Username "admin" und als Passwort "password123" eingeben.
+
+```
+    SELECT * FROM users WHERE username ='admin' AND password='password'
+```
+
+
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
