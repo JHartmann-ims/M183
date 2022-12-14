@@ -7,7 +7,7 @@ SQL-Injections auf einer ungesicherten Website duchführen.
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
+Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank von einer Website manipuliert.
 
 ## Beschreibung
 
