@@ -15,7 +15,7 @@ Ich habe gelernt, wie man mithilfe von SQL-Injections die Datenbank manipuliert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-[![Video](https://img.youtube.com/vi/Cb4uzwGSE_Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://img.youtube.com/vi/RAGnDXxLHAI/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
